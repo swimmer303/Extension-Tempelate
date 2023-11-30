@@ -1,2 +1,1 @@
-# Extension-Tempelate
-Example Chrome Extension
+To use this extension on Chrome, Go to chrome://extensions, if not already turn on developer mode in the top right, download all of these files as ZIP, drag + drop to add extension. To publish to Chrome web store, drag and drop onto the Developer Dashboard (Signing up for Chrome Developer Dashboard has a one-time fee of $5.00), and fill out the form, once filled out, press save draft, then press submit for review.
